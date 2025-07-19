@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/wardaowais/wardaowais/blob/main/c2.jpg" />
+
 
 <h1 align="center">Hi 👋, I'm Hoor</h1>
 
